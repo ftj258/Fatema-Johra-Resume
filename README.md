@@ -5,7 +5,7 @@ Cybersecurity professional with 7+ years of experience in enterprise incident re
 
 ## Resume
 Download Resume (PDF)
-https://raw.githubusercontent.com/ftj258/cybersecurity-portfolio/main/resume/Fatema_Johra_Resume.pdf)
+https://github.com/ftj258/Fatema-Johra-Resume/blob/main/Fatema_%20Johra_Resume.pdf 
 
 ## Contact
 Email: fjohra@hotmail.com
